@@ -1,5 +1,7 @@
-#markdown:   kramdown
-#style:  agalli
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: Andrea Galli
-description: Resume
+description: Principal Business Analyst | Data Analytics & AI, Data-driven Decision Support
 theme: jekyll-theme-slate
