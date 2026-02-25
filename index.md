@@ -1,6 +1,6 @@
-# Andrea Galli
-
 ![Profile picture](media/profile.jpg)
+
+# Andrea Galli
 
 **Principal Business Analyst | Data Analytics & AI, Data-driven Decision Support**  
 Cologne, Germany · Ford Motor Company  
