@@ -1,8 +1,3 @@
-# Andrea Galli
-
-![Profile picture](media/profile.jpg)
-
-**Principal Business Analyst | Data Analytics & AI, Data-driven Decision Support**  
 Cologne, Germany · Ford Motor Company  
 +49-174-8887716 · and.galli@gmail.com
 
