@@ -1,4 +1,3 @@
-markdown:   kramdown
-style:  agalli
-
-theme: slate
+#markdown:   kramdown
+#style:  agalli
+theme: jekyll-theme-slate
