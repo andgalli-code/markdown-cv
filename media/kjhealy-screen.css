@@ -118,6 +118,10 @@ h1,h2,h3,h4 {
 	width: 65%;
 }
 
+h1:first-of-type {
+    display: none;
+}
+
 h1 {
 	text-align: left;
 	font-size: 3em;
